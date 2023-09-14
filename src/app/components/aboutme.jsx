@@ -29,7 +29,7 @@ const aboutme = () => {
       <Grid container rowSpacing={1} columnSpacing={{ xs: 1, sm: 2, md: 10 }}>
         <Grid item xs={6}>
           <Box>
-          <Typography sx={{marginBottom: 10}} fontFamily={'inherit'} variant="h4" component="h1" gutterBottom>
+          <Typography sx={{marginBottom: 9}} fontFamily={'inherit'} variant="h4" component="h1" gutterBottom>
             01.About Me
           </Typography> 
           <Typography sx={{marginBottom: 4}} variant="body1" gutterBottom align="justify">
