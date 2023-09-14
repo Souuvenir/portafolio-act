@@ -12,7 +12,7 @@ import { ThemeProvider, createTheme } from '@mui/material'
 
 
 
-const pages = ['About me', 'Projects', 'Contact'];
+const pages = ['01. About', '02. Projects', '03. Contact'];
 
 function ResponsiveAppBar() {
 
